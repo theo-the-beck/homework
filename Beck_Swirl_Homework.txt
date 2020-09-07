@@ -7,3 +7,16 @@ It also discussed some quick shortcuts such as hitting up to redo a command or
 hitting tab when typing in variable names.
 
 
+
+Lesson 2: "Workspace and Files"
+
+This lesson discussed API commands - common commands for file interaction. Lots of the
+exersices were based around creating and deleting directories. This lesson also discussed 
+basics behind a theory of look, but don't disturb. 
+
+
+
+Lesson 3: "Sequences of Numbers"
+
+Lesson 3 was based around
+
