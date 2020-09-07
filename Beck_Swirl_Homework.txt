@@ -69,7 +69,12 @@ logic - more than one true or false statement being evaluated
 
 Lesson 9: "Functions"
 
-Lessong 9 discusses 
+Lessong 9 discusses the basics for writing and using fucntions - basically every statement
+of code in R. Functions can be called using their names and arguments. It is imporant
+to use the correct naming standards when assiging aruguments (order matters). One can also 
+call functions as arguments and create their own operators to help with relating values.
+
+Lesson 12: "Looking at Data"
 
 
 
