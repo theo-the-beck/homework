@@ -18,5 +18,22 @@ basics behind a theory of look, but don't disturb.
 
 Lesson 3: "Sequences of Numbers"
 
-Lesson 3 was based around
+Lesson 3 was based around creating number sequences - there are a multitude of functions 
+with this ability, a large one simply being a colon ":". Rep and seq are also options which
+can sequence. 
+
+
+
+Lesson 4: "Vectors"
+
+One of the most basic data structures for large systems of data. There are atomic and mixed 
+vectors. Operators are also introduced here (less than, greater than, equal to, not 
+equal, etc). It also discusses concatenating vectors of mixed type. 
+
+
+
+Lesson 5: "Missing Values"
+
+
+
 
