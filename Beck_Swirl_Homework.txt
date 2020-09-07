@@ -34,6 +34,21 @@ equal, etc). It also discusses concatenating vectors of mixed type.
 
 Lesson 5: "Missing Values"
 
+R automatically keeps NA values when they appear in vectors. This is good for math
+operation, but requires note when searching for "NA" values in vectors as a '==' will 
+not return a true representation. An option for getting NA values is is.na(). Nan is also a
+value representative for "Not a Number"
+
+
+
+Lesson 6: "Subsetting Vectors"
+
+There are 4 different vector types to index: logical, integer +, integer -, and char.
+is.na() and !is.na() help seperate NA data in vectors. It is also important to note that
+R will index value that don't exist in a vector as either NA or numeric(0).d
+
+
+Lesson 7: "Matrices and Data Frames"
 
 
 
