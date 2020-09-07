@@ -1,3 +1,9 @@
 R Studio Homeowork <- Swirl
 
-Lesson 1: R Programming : the basics of programming in R
+Lesson 1: "Basic Building Blocks"
+
+Lesson one focused on the basics of math in R, including the sqrt() and div() functions.
+It also discussed some quick shortcuts such as hitting up to redo a command or
+hitting tab when typing in variable names.
+
+
