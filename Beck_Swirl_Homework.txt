@@ -76,8 +76,10 @@ call functions as arguments and create their own operators to help with relating
 
 Lesson 12: "Looking at Data"
 
-
-
+Data frames are rectangular in nature and allow for easy access through later analysis
+methods. Rows always come before columns when reading data. There are lots of functions 
+which can be used too access data from data frames suc as summary(), head(), tail(), names(),
+object.size(), ncol() and nrow(). 
 
 
 
