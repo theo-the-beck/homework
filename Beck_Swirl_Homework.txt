@@ -50,5 +50,30 @@ R will index value that don't exist in a vector as either NA or numeric(0).d
 
 Lesson 7: "Matrices and Data Frames"
 
+You can assign vectors dimensions and you can create "dimensioned" vectors - i.e. matrices
+It is important to remember that matrices can only contain one class of data therefore
+it is necassary to assign the class or risk implicity coercion. Data forms seem to be a 
+representative of matrices which all contain one class. This lesson also discussed naming
+columns and rows using colname() and data.frame()
+
+
+
+Lesson 8: "Logic"
+
+Boolean Logic => 'TRUE' 'FALSE'. There are lots of operators related to logic statements
+such as ! or which() or xor() that allow for complex logic statements in R. 
+Any() and all() are also important functions which return true or false based on combined
+logic - more than one true or false statement being evaluated
+
+
+
+Lesson 9: "Functions"
+
+Lessong 9 discusses 
+
+
+
+
+
 
 
